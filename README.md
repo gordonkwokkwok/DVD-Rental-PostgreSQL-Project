@@ -4,11 +4,11 @@
 </p>
 
 ## 📚 Introduction
-Welcome to the DVD Rental Database Project, a hands-on application of PostgreSQL, the powerful open-source object-relational database system.
+Welcome to the DVD Rental Database Project, a hands-on application of PostgreSQL, the powerful open-source object-relational database system. 🎓
 
-This project encapsulates 15 meticulously designed tables: 'actor', 'film', 'film_actor', 'category', 'film_category', 'store', 'inventory', 'rental', 'payment', 'staff', 'customer', 'address', 'city', and 'country'. Each table represents various facets of a real-world DVD rental business.
+This project encapsulates 15 meticulously designed tables: 'actor', 'film', 'film_actor', 'category', 'film_category', 'store', 'inventory', 'rental', 'payment', 'staff', 'customer', 'address', 'city', and 'country'. Each table represents various facets of a real-world DVD rental business. 📊
 
-As you navigate through this project, you'll gain practical insights into the capabilities of PostgreSQL, refine your database management skills, and understand complex data structures and relationships. Welcome to a learning journey that unravels the intricate operations of a DVD rental store.
+As you navigate through this project, you'll gain practical insights into the capabilities of PostgreSQL, refine your database management skills, and understand complex data structures and relationships. Welcome to a learning journey that unravels the intricate operations of a DVD rental store. 🚀
 
 ## 🎯 Objective
 - Implement SQL querying techniques to explore and manipulate the data.
@@ -45,8 +45,8 @@ There are 15 tables in the DVD Rental database:
 - country – stores country names.
 
 ## 🌐 Dataset
-- [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/); or
-- [Download Here](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/files/11886551/dvdrental.1.zip)
+- [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
+- [Download Zip](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/files/11886551/dvdrental.1.zip)
 
 # 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
