@@ -46,7 +46,12 @@ There are 15 tables in the DVD Rental database:
 
 ## 🌐 Dataset
 - [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
-- [Download Zip](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/files/11886551/dvdrental.1.zip)
+- [Download zip](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/files/11886551/dvdrental.1.zip)
 
 # 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
+
+<p align="center">
+  <img src="https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/assets/112631794/04df4208-da1b-4c88-b18d-d711c0785d31" alt="Alt Text">
+</p>
+
