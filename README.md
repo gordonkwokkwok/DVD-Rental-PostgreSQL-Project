@@ -46,7 +46,7 @@ There are 15 tables in the DVD Rental database:
 
 ## 🌐 Dataset
 - [Link](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) ; or
-- [Download zip](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/files/11886551/dvdrental.zip)
+- [Download Here](https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/tree/main/dataset)
 
 📝 To restore a .tar file in pgAdmin, follow these steps:
 ```
