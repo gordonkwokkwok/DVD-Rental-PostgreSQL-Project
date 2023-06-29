@@ -69,29 +69,34 @@ This query identifies unique customers who have made payments exceeding 10 units
 
 <br>
 
-**6. AVG, GROUP BY, HAVING**
+**6. CASE Statement**
 
 ```
-SELECT staff_id, AVG(amount) as avg_amount
-FROM payment
-GROUP BY staff_id
-HAVING AVG(amount) > 5.00;
+SELECT rating, 
+       AVG(length) AS avg_length, 
+       CASE 
+         WHEN AVG(length) > 120 THEN 'Long'
+         ELSE 'Short'
+       END AS film_length_category
+FROM film 
+GROUP BY rating;
+
 ```
 
-This query finds staff members who have an average payment received of more than 5. It can help understand which staff are dealing with larger transactions on average.
+This query calculates the average length of films for each rating category, and classifies them into 'Long' or 'Short' categories based on whether their average length is greater than 120 minutes. This can be used to categorize films based on their average length and rating.
 
 <br>
 
-**7. UNION, ORDER BY**
+**7. Window Function**
 
 ```
-(SELECT address_id FROM address)
-UNION
-(SELECT address_id FROM store)
-ORDER BY address_id ASC;
+SELECT rental_id, customer_id, rental_date, 
+       RANK() OVER (PARTITION BY customer_id ORDER BY rental_date) as rental_rank
+FROM rental;
+
 ```
 
-This query returns all unique address IDs present in both the 'address' and 'store' tables in ascending order. It helps identify all locations involved in the DVD rental business.
+This query assigns a rank to each rental for a specific customer, based on the rental date. The earliest rental gets the lowest rank. This can be used to understand rental patterns of customers, such as the frequency and timing of their rentals.
 
 <br>
 
