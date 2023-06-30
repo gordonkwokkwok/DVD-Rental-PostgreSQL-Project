@@ -68,9 +68,24 @@ There are 15 tables in the DVD Rental database:
 ```
 By following these steps, you will be able to restore the dvdrental.tar file in pgAdmin and have the database available for use.
 
+## 👥 Contributer
+- [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
+
+## 🤝 Acknowledgments
+
+I would like to express our gratitude to the following individuals and organizations for their contributions and support in making this project possible:
+
+- Will: an instructor of the course, provided valuable guidance, mentorship, and expertise throughout the project. His support was instrumental in shaping the direction of the project and ensuring its success.
+- [Cantek IT Program](https://www.cantekcanada.com/): Cantek IT Program, an educational institution, played a significant role in supporting the project. They provided resources, facilities, and a conducive learning environment for the team to work on the project.
+- [PostgreSQL Tutorial Website](https://www.postgresqltutorial.com/): The PostgreSQL Tutorial website offered a valuable contribution by providing a dataset sample. This dataset was instrumental in conducting various experiments, analyses, and demonstrations throughout the project.
+
+I am thankful for their valuable input, feedback, and assistance throughout the development process. Their expertise and dedication have greatly enhanced the quality and functionality of this project.
+
+## 💪 Support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gordonhei25)
+
+Give a ⭐️ if this project helped you!
+
 <p align="center">
   <img src="https://github.com/gordonkwokkwok/DVD-Rental-PostgreSQL-Project/assets/112631794/04df4208-da1b-4c88-b18d-d711c0785d31" alt="Alt Text">
 </p>
-
-# 👥 Contributer
-- [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
